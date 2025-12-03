@@ -12,6 +12,7 @@
 
 **Tools & Technologies:**  
 `Git` · `Linux` · `Docker` · `Node.js` · `React` · `Astro` · `Springboot` 
+
 ### 📚 Currently Learning 
 - 3D preprocessing techniques for medical imaging (normalization, resampling, augmentation)  
 - Dataset preparation and splitting strategies for Train/Val/Test  
@@ -26,7 +27,7 @@
 
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gfsol&show_icons=true)
 
 ### 📫 Contact Me
 - Email: **GeorgeFelician.Soldubanu@alu.uclm.es*  
