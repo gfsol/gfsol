@@ -26,9 +26,6 @@
 ### 🚀 Projects
 
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gfsol&show_icons=true)
-
 ### 📫 Contact Me
 - Email: **GeorgeFelician.Soldubanu@alu.uclm.es*  
 - LinkedIn: **https://www.linkedin.com/in/georgefsol/**
