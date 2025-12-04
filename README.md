@@ -27,7 +27,7 @@
 
 
 ### 📫 Contact Me
-- Email: **GeorgeFelician.Soldubanu@alu.uclm.es*  
+- Email: **GeorgeFelician.Soldubanu@alu.uclm.es** 
 - LinkedIn: **https://www.linkedin.com/in/georgefsol/**
 
 ---
