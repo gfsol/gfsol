@@ -11,7 +11,7 @@
 `Python` · `Java` · `C/C++` · `JavaScript` · `C#` 
 
 **Tools & Technologies:**  
-`Git` · `Linux` · `Docker` · `Node.js` · `React` · `Astro` · `Springboot` 
+`Git` · `Linux` · `Docker` · `Node.js` · `React` · `Astro` · `Springboot` · `Angular` 
 
 ### 📚 Currently Learning 
 - 3D preprocessing techniques for medical imaging (normalization, resampling, augmentation)  
