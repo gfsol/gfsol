@@ -24,7 +24,7 @@
 
 
 ### 🚀 Projects
-[RememberMED - Telegram Medication Reminder Bot](https://github.com/gfsol/RememberMED)
+- [RememberMED - Telegram Medication Reminder Bot](https://github.com/gfsol/RememberMED)
 
 ### 📫 Contact Me
 - Email: **GeorgeFelician.Soldubanu@alu.uclm.es** 
