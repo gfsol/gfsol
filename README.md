@@ -1,7 +1,12 @@
-# Hi, I'm **** 👋  
+# Hi, I'm **George** 👋  
 
 ## 👨‍💻 About Me
-I'm a **Computer Engineering student** passionate about AI for **medical imaging**, software development, and building tools at the intersection of health and technology.
+I'm a Computer Engineering student passionate about combining technology and medicine to create meaningful solutions. I love exploring AI, medical imaging, and software development while constantly learning new tools and approaches.
+
+- 🎓 CE student  
+- ❤️ Interested in medical AI & biomedical applications  
+- 🧠 Always exploring new frameworks and technologies  
+- 🔍 Focused on medical imaging, deep learning, and computer vision  
 
 ---
 
