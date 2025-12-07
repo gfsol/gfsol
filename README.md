@@ -45,7 +45,7 @@ I'm a Computer Engineering student passionate about combining technology and med
 
 ## 🚀 Projects  
 - [RememberMED - Telegram Medication Reminder Bot](https://github.com/gfsol/RememberMED)
-- _More coming soon_
+- _More coming soon — stay tuned!_
 ---
 
 ## 📫 Contact  
