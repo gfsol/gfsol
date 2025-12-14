@@ -45,6 +45,7 @@ I'm a Computer Engineering student passionate about combining technology and med
 
 ## 🚀 Projects  
 - [RememberMED - Telegram Medication Reminder Bot](https://github.com/gfsol/RememberMED)
+- [EUS_TumorDetector - Endoscopic Ultrasound Tumor Detector](https://github.com/gfsol/EUS_TumorDetector)
 - _More coming soon — stay tuned!_
 ---
 
